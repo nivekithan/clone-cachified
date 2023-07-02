@@ -1,0 +1,3 @@
+{ "tasks": {
+    "dev" : "deno run -A playground/index.ts"
+}}
